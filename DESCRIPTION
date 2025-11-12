@@ -1,0 +1,18 @@
+Package: m6APrediction
+Type: Package
+Title: A Tool for Predicting m6A Modification Sites from Multiple Features
+Version: 1.0.0
+Authors@R: person("chen", "shiya", email = "Shiya.Chen23@student.xjtlu.edu.cn", role = c("aut", "cre"))
+Description: Provides functions to predict N6-methyladenosine (m6A)
+    modification sites in RNA using a pre-trained random forest model.
+    The prediction is based on a set of features including sequence
+    information (e.g., DNA 5mer) and other biological context (e.g.,
+    RNA type, GC content).Final submission version.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+Depends: R (>= 3.5.0)
+Imports: 
+    randomForest
+URL: https://github.com/shiiya-co/m6APrediction
+BugReports: https://github.com/shiiya-co/m6APrediction/issues
