@@ -13,7 +13,7 @@ You can install the development version of `m6APrediction` from GitHub with:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("YourGitHubUserName/m6APrediction")
+devtools::install_github("shiiiya-co/m6APrediction")
 ```   
 
 ## Example Usage
