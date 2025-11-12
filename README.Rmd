@@ -30,8 +30,9 @@ rf_model <- readRDS(system.file("extdata", "rf_fit.rds", package = "m6APredictio
 The underlying random forest model demonstrates strong predictive performance.
 
 ### ROC Curve
-![ROC Curve](man/figures/roc_plot.png)
-![PRC Curve](man/figures/prc_plot.png)
+![alt text](man/figures/roc_plot.png)
+### PRC Curve
+![alt text](man/figures/prc_plot.png)
 
 
 
