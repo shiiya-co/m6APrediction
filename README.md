@@ -1,8 +1,3 @@
-```markdown
----
-output: github_document
----
-
 # m6APrediction: A Tool for Predicting m6A Modification Sites
 
 `m6APrediction` is an R package designed to predict N6-methyladenosine (m6A) modification sites in RNA. It uses a pre-trained random forest model that leverages a variety of biological features to make predictions.
